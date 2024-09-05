@@ -1,0 +1,9 @@
+transformers
+datasets
+requests
+nltk
+re
+pandas 
+numpy 
+seaborn 
+matplotlib
